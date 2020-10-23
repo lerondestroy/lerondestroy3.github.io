@@ -1,0 +1,280 @@
+@import 'reset (1).css';
+@import 'content.css';
+/* @import url('//db.onlinewebfonts.com/c/252f019e7181ac7ba84988e49b3307bf?family=Kazimir');
+@font-face {font-family: "Kazimir"; src: url("//db.onlinewebfonts.com/t/252f019e7181ac7ba84988e49b3307bf.eot"); src: url("//db.onlinewebfonts.com/t/252f019e7181ac7ba84988e49b3307bf.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/252f019e7181ac7ba84988e49b3307bf.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/252f019e7181ac7ba84988e49b3307bf.woff") format("woff"), url("//db.onlinewebfonts.com/t/252f019e7181ac7ba84988e49b3307bf.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/252f019e7181ac7ba84988e49b3307bf.svg#Kazimir") format("svg"); } */
+@import 'stylesheet.css';
+
+
+#bg1 {
+  background-image: url('../images/Kazimir New (16).jpg');
+  width: 1280px;
+  height: 10000px;
+  /* margin-top: -275px; */
+  padding: 0;
+  margin: 0;
+  position: absolute;
+    }
+
+
+
+.text1 {
+margin-left: 80px;
+margin-top: 200px;
+}
+
+.text2
+{
+  margin-left: 80px;
+  margin-top: 0px;
+}
+
+.text3 {
+margin-left: 780px;
+margin-top: 0px;
+}
+
+.text4 {
+margin-left: 200px;
+margin-top: 340px;
+}
+.text5{
+margin-left: 80px;
+margin-right: 516px;
+margin-top: 260px;
+}
+.text6 {
+margin-left: 520px;
+margin-top: 485px;
+}
+.text7 {
+margin-left: 485px;
+margin-top: 150px;
+}
+
+.text8 {
+margin-left: 485px;
+margin-top: 40px;
+margin-right: 160px;
+}
+
+.text9 {
+margin-left: 485px;
+margin-top: 40px;
+}
+
+.text10 {
+margin-left: 80px;
+margin-top: 250px;
+}
+
+.text11 {
+margin-left: 80px;
+margin-top: 30px;
+}
+
+.text12 {
+margin-left: 100px;
+margin-top: 92px;
+margin-right: 490px;
+}
+
+.text13 {
+margin-left: 520px;
+margin-top: 450px;
+color: #fff
+}
+
+.text14 {
+margin-left: 225px;
+margin-top: 165px;
+color: #fff
+}
+
+.text15 {
+margin-left: 80px;
+margin-top: 625px;
+margin-right: 600px;
+
+}
+
+.text16 {
+margin-left: 80px;
+margin-top: 750px;
+margin-right: 90px;
+}
+
+.text17 {
+margin-left: 80px;
+margin-top: 20px;
+margin-right: 80px;
+}
+
+.text18 {
+margin-left: 80px;
+margin-top: 255px;
+}
+
+.text19 {
+margin-left: 220px;
+margin-top: 520px;
+}
+.text20 {
+margin-left: 80px;
+margin-top: 300px;
+margin-right: 100px;
+}
+
+.text21 {
+margin-left: 80px;
+margin-top: 60px;
+margin-right: 100px;
+}
+
+.text22 {
+margin-left: 200px;
+margin-top: 165px;
+color: #fff
+}
+
+.text23 {
+margin-left: 850px;
+margin-top: 335px;
+margin-right: 80px;
+color: #fff
+}
+.text24 {
+margin-left: 850px;
+margin-top: 30px;
+margin-right: 80px;
+color: #fff
+}
+
+.text25 {
+margin-left: 80px;
+margin-top: 320px;
+margin-right: 450px;
+color: #fff
+}
+
+.text26 {
+margin-left: 80px;
+margin-top: 550px;
+color: #fff
+}
+
+.text27 {
+margin-left: 880px;
+margin-top: 170px;
+margin-right: 80px;
+color: #fff
+}
+.text28 {
+margin-left: 1140px;
+margin-top: 20px;
+margin-right: 80px;
+color: #fff
+}
+.text29 {
+margin-left: 80px;
+margin-top: 160px;
+
+}
+.text30 {
+margin-left: 80px;
+margin-top: 730px;
+color: #767676
+}
+
+
+h1 {
+font-size: 96px;
+font-family: 'Kazimir';
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+h11 {
+font-size: 96px;
+font-family: 'Kazimir';
+    font-weight: 500;
+    font-style: italic;
+}
+
+h2 {
+font-size: 64px;
+font-family: 'Kazimir';
+    font-weight: 500;
+    font-style: normal;
+}
+
+h3 {
+font-size: 36px;
+font-family: 'Kazimir';
+    font-weight: 500;
+    font-style: normal;
+}
+
+h4 {
+font-size: 72px;
+font-family: 'Kazimir';
+    font-weight: 500;
+    font-style: normal;
+}
+
+p {
+font-size: 24px;
+font-family: 'Kazimir';
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+p1 {
+font-size: 18px;
+font-family: 'Kazimir';
+    font-weight: normal;
+    font-style: normal;
+    }
+
+c {
+  font-size: 24px;
+  font-family: 'Kazimir';
+    font-weight: normal;
+    font-style: italic;
+}
+
+cc {
+font-size: 36px;
+font-family: 'Kazimir';
+   font-weight: 500;
+   font-style: italic;
+}
+
+
+.button {
+  background-color: #0F0F0F;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+/* .loader {
+  border: 16px solid #f3f3f3; /* Light grey */
+  /* border-top: 16px solid #3498db; /* Blue */
+  /* border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  animation: spin 15s linear infinite;
+} */
+
+/* @keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+} */
